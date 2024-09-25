@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Sezer Aptourachman (a.k.a julsezar) 👋
 
 ## 🎓 Education
 - 🤖 Currently pursuing Artificial Intelligence Engineering at Hacettepe University
