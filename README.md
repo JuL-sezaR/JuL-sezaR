@@ -13,12 +13,13 @@ I'm an aspiring AI engineer with a passion for cutting-edge technology. From a y
 - Artificial Intelligence Configuration
 - Machine Learning
 - Data Science
+- AI Infrastructure
 
 ## 💻 Tech Experience
 Early adopter and experienced user of various AI technologies, including:
 - ChatGPT
 - Claude
-- Google Gemini
+- Google Bard (Gemini)
 - Midjourney
 - Leonardo AI
 
