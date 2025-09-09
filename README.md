@@ -2,7 +2,6 @@
 
 ## 🎓 Education
 - 🤖 Currently pursuing Artificial Intelligence Engineering at Hacettepe University
-- 🏫 Graduated as valedictorian from Celal Bayar Minority High School (Numerical Department, 2024)
 
 ## 🚀 About Me
 I'm an aspiring AI engineer with a passion for cutting-edge technology. From a young age, I've been fascinated by computers, and this interest has evolved into a deep enthusiasm for artificial intelligence and its potential to shape our future.
