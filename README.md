@@ -1,4 +1,3 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=JuL-sezaR&show_icons=true&theme=tokyonight)
 ![Typing](https://readme-typing-svg.herokuapp.com?color=7F7FFF&lines=Quantum+Computing;AI+Engineering;Research+Oriented)
 
 # JuL-sezaR ⚛️
