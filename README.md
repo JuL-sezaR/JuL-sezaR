@@ -1,5 +1,5 @@
 # About Me:
-![Typing](https://readme-typing-svg.herokuapp.com?color=7F7FFF&lines=Quantum+Computing;AI+Engineering;Research+Oriented)
+![Typing](https://readme-typing-svg.herokuapp.com?color=5884a8&lines=Quantum+Computing;AI+Engineering;Data+Science;Research+Oriented)
 
 # JuL-sezaR ⚛️
 
