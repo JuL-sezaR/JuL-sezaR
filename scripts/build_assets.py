@@ -24,11 +24,10 @@ CONTENT = {
     "focus": ["Quantum Algorithms & Quantum ML", "Machine Learning & Data Science",
               "AI Infrastructure & Systems", "High-Performance Computing"],
     "toolbox": [
-        ("languages", [("C++", "#7fa7d6"), ("Python", "#e9c46a"), ("Java", "#e8875b")]),
-        ("tools", [("Windows Terminal", "#9db3ad"), ("Git", "#e07a5f"), ("GitHub", "#efe3c8")]),
-        ("data & ml", [("Oracle", "#d9665b"), ("SQLite", "#7fb4c9"), ("Matplotlib", "#8fb8de"),
-                       ("NumPy", "#79a6c9"), ("Pandas", "#b49ad9"), ("PyTorch", "#ee8a5e"),
-                       ("scikit-learn", "#f2a65a")]),
+        ("languages", [("C++", "#7fa7d6"), ("Python", "#e9c46a"), ("Java", "#e8875b"), ("Rust", "#dea584")]),
+        ("ml & data", [("PyTorch", "#ee8a5e"), ("NumPy", "#79a6c9"), ("Matplotlib", "#8fb8de")]),
+        ("quantum", [("Qiskit", "#b49ad9"), ("Cirq", "#7fb4c9"), ("CUDA-Q", "#9ccf7f"),
+                     ("PennyLane", "#e9a6a1"), ("Qollab", "#e9c46a")]),
     ],
 }
 

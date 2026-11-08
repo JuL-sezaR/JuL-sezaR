@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/toolbox.svg" width="100%" alt="Toolbox. Languages: C++, Python, Java. Tools: Windows Terminal, Git, GitHub. Data and ML: Oracle, SQLite, Matplotlib, NumPy, Pandas, PyTorch, scikit-learn." />
+  <img src="assets/toolbox.svg" width="100%" alt="Toolbox. Languages: C++, Python, Java, Rust. ML and data: PyTorch, NumPy, Matplotlib. Quantum: Qiskit, Cirq, CUDA-Q, PennyLane, Qollab." />
 </p>
 
 <p align="center"><img src="assets/div-log.svg" width="100%" alt="pond log" /></p>
