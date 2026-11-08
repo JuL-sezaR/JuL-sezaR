@@ -1,60 +1,49 @@
-![Typing](https://readme-typing-svg.herokuapp.com?color=5884a8&size=25&lines=Quantum+Computing;AI+Engineering;Data+Science;Research+Oriented)
+<!--
+  The pond is tended by .github/workflows/pond.yml every night:
+  the koi (git-koi), the pond log (scripts/pond_log.py), and the static cards
+  (scripts/build_assets.py). To change what a card says, edit CONTENT in
+  scripts/build_assets.py and push; the workflow redraws it.
+-->
 
-# JuL-sezaR ⚛️
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="JuL-sezaR, AI Engineering at Hacettepe University. Quantum computing, quantum machine learning, AI engineering, data science, research oriented." />
+</p>
 
-**AI Engineering @ Hacettepe University**
+<p align="center"><img src="assets/div-koi.svg" width="100%" alt="the pond" /></p>
 
-⚛️ Quantum Computing • QML • AI Systems  
-🧠 Research-driven • Code-focused
+<p align="center">
+  <img src="assets/koi-pond.svg" width="100%" alt="My koi, redrawn every night from my GitHub activity: my languages color it, my contributions grow it, my streaks mark it, and yesterday decides how it swims." />
+</p>
 
----
+<p align="center"><img src="assets/div-about.svg" width="100%" alt="about" /></p>
 
-## ⚙️ Technical Focus
-- **Quantum Algorithms & Quantum Machine Learning**
-- **Machine Learning & Data Science**
-- **AI Infrastructure & Systems**
-- **High-Performance Computing**
+<p align="center">
+  <img src="assets/about.svg" width="49%" alt="whoami: JuL-sezaR, AI Engineering at Hacettepe University. Interests: quantum computing, QML, AI systems. Research-driven and code-focused." />
+  <img src="assets/focus.svg" width="49%" alt="Technical focus: Quantum Algorithms and Quantum ML; Machine Learning and Data Science; AI Infrastructure and Systems; High-Performance Computing." />
+</p>
 
----
+<p align="center">
+  <img src="assets/toolbox.svg" width="100%" alt="Toolbox. Languages: C++, Python, Java. Tools: Windows Terminal, Git, GitHub. Data and ML: Oracle, SQLite, Matplotlib, NumPy, Pandas, PyTorch, scikit-learn." />
+</p>
 
-## 📫 Contact
-📧 sezeraptourachman@gmail.com
+<p align="center"><img src="assets/div-log.svg" width="100%" alt="pond log" /></p>
 
-## 🌐 Professional Network
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sezerapt)
+<p align="center">
+  <img src="assets/pond-log.svg" width="100%" alt="My GitHub activity: contributions, current and longest streak, stars, the last year of contributions, and top languages. Updated nightly." />
+</p>
 
----
+<p align="center"><img src="assets/div-hello.svg" width="100%" alt="say hello" /></p>
 
-# 💻 Technical Expertise
+<p align="center">
+  <a href="mailto:sezeraptourachman@gmail.com"><img src="assets/btn-email.svg" height="52" alt="Email me" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/sezerapt"><img src="assets/btn-linkedin.svg" height="52" alt="LinkedIn" /></a>
+</p>
 
-## Programming Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<p align="center"><img src="assets/footer.svg" width="100%" alt="thanks for drifting by" /></p>
 
-## Development Tools
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-## Data & ML Stack
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
-
-# 📊 GitHub Activity
-![](https://github-readme-stats.vercel.app/api?username=JuL-sezaR&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=JuL-sezaR&theme=city_lights&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuL-sezaR&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=JuL-sezaR&icon=0&color=1)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JuL-sezaR&label=pond%20visitors&color=5884a8&style=flat-square" alt="pond visitors" />
+  <br />
+  <sub>koi drawn by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
+</p>

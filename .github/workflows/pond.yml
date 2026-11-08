@@ -1,0 +1,53 @@
+# Tends the pond every night: redraws the koi (git-koi), refreshes the pond-log
+# stats card, and rebuilds the static cards so edits to scripts/ show up.
+name: Pond
+
+on:
+  schedule:
+    # Just after midnight UTC, so the koi shows the day that just ended.
+    - cron: "20 0 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/pond.yml
+      - scripts/**
+
+permissions:
+  contents: write
+
+concurrency: pond
+
+jobs:
+  pond:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Draw the koi
+        uses: yalongwastaken/git-koi@v1
+        with:
+          body: asagi # white, black, asagi, tea, gold, or platinum
+          output-dir: koi
+
+      - name: Rebuild the static cards
+        run: python3 scripts/build_assets.py
+
+      - name: Write the pond log
+        # A bad night keeps yesterday's card instead of failing the koi.
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/pond_log.py --login "${{ github.repository_owner }}"
+
+      - name: Commit if anything changed
+        shell: bash
+        run: |
+          git add koi/koi.gif assets/
+          if git diff --cached --quiet; then
+            echo "The pond is unchanged; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --quiet --message "pond: tend the pond"
+          git push --quiet
